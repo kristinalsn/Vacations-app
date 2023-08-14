@@ -1,0 +1,23 @@
+.VacationList p {
+    color: rgb(33, 39, 44);
+
+}
+h2 {
+    text-align: center;
+}
+.PaginationContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .PaginationContainer button {
+    margin: 0 0.5rem;
+  }
+  .VacationCardsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+

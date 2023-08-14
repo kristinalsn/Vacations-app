@@ -1,0 +1,18 @@
+.Header {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    background-color: #0061B0;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 700;
+    margin-right: auto;
+}
+.AuthMenu{
+    margin-left: 1100px;
+    margin-top: 45px;
+}
+h1{
+    margin-top: 40px;
+}
+

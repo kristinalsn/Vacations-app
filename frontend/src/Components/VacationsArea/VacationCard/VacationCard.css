@@ -1,0 +1,47 @@
+  
+  .VacationCard {
+    background-color: rgb(241, 215, 215);
+
+  }
+
+    
+    
+    .VacationCard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    }
+    
+    .VacationCard img {
+    border-radius: 5px 5px 0 0;
+    height: 100px;
+    width: 288px;
+    }
+    
+    
+    .VacationCard .card-title {
+    text-align: center;
+    }
+    
+    .VacationCard .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: black;
+
+    }
+    
+    
+    button {
+      margin-left: 30px;
+      
+    }
+    h3 {
+      /* background-color: aliceblue; */
+      color:rgb(13, 4, 120);
+      font-size: bold;
+      font-size:medium;
+      text-align: center;
+    }
+    h5{
+      display:inline-block;
+      padding: 2px;
+    }
+    

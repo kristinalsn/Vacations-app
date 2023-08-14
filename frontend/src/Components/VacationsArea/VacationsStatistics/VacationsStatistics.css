@@ -1,0 +1,22 @@
+.VacationsChart>a {
+    color: rgb(26, 5, 113);
+    position: absolute;
+    right: 20px;
+}
+
+.VacationsChart>a:hover {
+    color: rgb(111, 44, 228);
+}
+
+.VacationsChart>canvas {
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 75%;
+    height: 50%;
+}
+.VacationsChart > button {
+    width: 150px;
+    margin-left: 500px;
+    margin-top: 30px;
+}

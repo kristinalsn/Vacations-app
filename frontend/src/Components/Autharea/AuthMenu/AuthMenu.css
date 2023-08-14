@@ -1,0 +1,29 @@
+.AuthMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ddd;
+  font-size: 2.2rem;
+}
+
+.user-greeting {
+  margin-right: 10px;
+}
+
+.NavLink {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.NavLink:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.right-menu {
+  display: flex;
+  align-items: center;
+}

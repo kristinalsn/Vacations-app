@@ -1,0 +1,11 @@
+.About > h3{
+    text-align: start;
+}
+.About > .li{
+    justify-content: flex-start;
+}
+.About > h2{
+    text-align: start;
+  
+}
+
