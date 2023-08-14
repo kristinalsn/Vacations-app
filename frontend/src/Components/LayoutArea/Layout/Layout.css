@@ -1,0 +1,32 @@
+* .Layout  {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 20% auto 20%;
+    grid-template-columns: repeat(6, 1fr);
+  }
+  
+  
+  header {
+    grid-column: span 6;
+    display: flex;
+    border: 1px solid gray;
+  }
+  
+  aside {
+    grid-column: span 1;
+    background-color: rgb(250, 243, 234);
+
+  }
+  
+  main {
+    grid-column: span 5;
+
+    background-color: rgb(250, 243, 234);
+
+  }
+  
+  footer {
+    grid-column: span 6;
+    
+  }
+  
